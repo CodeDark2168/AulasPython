@@ -1,16 +1,16 @@
-## Exercício 1
+### Exercício 1
 
 - Leia velocidade inicial;
 - Leia velocidade final;
 - Leia tempo decorrido;
 - Calcule a aceleração média (velocidade_final - velocidade_inicial) / (tempo_decorrido);
 
-## Exercício 2
+### Exercício 2
 
 - Leia o raio da esfera;
 - Calcule o volume ((4/3) * π * r³);
 
-## Exercício 3
+### Exercício 3
 
 - Leia o valor
 - Leia a taxa de juros
