@@ -10,7 +10,7 @@
 
 - Leia o raio da esfera;
 - Calcule o volume ((4/3) * π * r³);
-<br>
+<hr>
 
 ### Exercício 3
 
