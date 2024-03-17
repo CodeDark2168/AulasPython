@@ -5,10 +5,12 @@
 - Leia tempo decorrido;
 - Calcule a aceleração média (velocidade_final - velocidade_inicial) / (tempo_decorrido);
 
+
 ### Exercício 2
 
 - Leia o raio da esfera;
 - Calcule o volume ((4/3) * π * r³);
+
 
 ### Exercício 3
 
