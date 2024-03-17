@@ -4,13 +4,13 @@
 - Leia velocidade final;
 - Leia tempo decorrido;
 - Calcule a aceleração média (velocidade_final - velocidade_inicial) / (tempo_decorrido);
-
+<br>
 
 ### Exercício 2
 
 - Leia o raio da esfera;
 - Calcule o volume ((4/3) * π * r³);
-
+<br>
 
 ### Exercício 3
 
@@ -18,3 +18,4 @@
 - Leia a taxa de juros
 - Leia a quantidade de anos
 - Calcule o investimento futuro (valor_inicial * (1 + taxa_juros)ᵃⁿᵒˢ);
+<br>
